@@ -1,4 +1,5 @@
-# SPAM-SMS-Prediction
+# SPAM-SMS-Prediction :notebook:
+In this repo i have created a SMS Spam Prediction project in machine learning using NLP, and i am using [nltk](https://pypi.org/project/nltk/) Library for NLP.
 
 
 ## Contributing :man_technologist:

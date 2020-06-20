@@ -15,6 +15,7 @@ import re
 import sklearn
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import accuracy_score
+import pickle
 ```
 
 ## Contributing :man_technologist:

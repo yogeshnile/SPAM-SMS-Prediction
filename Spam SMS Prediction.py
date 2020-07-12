@@ -80,8 +80,3 @@ if predict_spam(msg):
     print(result[0])
 else:
     print(result[1])
-
-# Save Model
-with open('Spam SMS Prodiction','wb') as f:
-	pickle.dump(classifier,f)
-
